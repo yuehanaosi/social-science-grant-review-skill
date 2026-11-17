@@ -1,0 +1,4 @@
+interface:
+  display_name: "社科课题选题、申报与审核全能助手 / Social Science Grant Assistant"
+  short_description: "选题、申报与审稿 / Topics, applications and review"
+  default_prompt: "用 $social-science-grant-review 审核申报材料 / Use $social-science-grant-review to review the application."
